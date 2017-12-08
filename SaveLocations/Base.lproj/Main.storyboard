@@ -71,7 +71,7 @@
                         <outlet property="latitudeLabel" destination="UUN-rv-Xrd" id="cYS-H8-ZsD"/>
                         <outlet property="longitudeLabel" destination="kU9-AO-QCh" id="ZbV-75-4kH"/>
                         <outlet property="messageLabel" destination="Etq-6H-JJV" id="lad-Rq-y0I"/>
-                        <outlet property="tagLabel" destination="kpk-SF-2FH" id="cva-PK-Bzy"/>
+                        <outlet property="tagButton" destination="kpk-SF-2FH" id="84e-YH-Ig3"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="W5J-7L-Pyd" sceneMemberID="firstResponder"/>
